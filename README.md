@@ -19,4 +19,12 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Al presionar el botón de enviar, un gif que simula carga debe mostrarse
 * Después del gif debe aparecer un gráfico que le indica al usuario que su mensaje fué enviado correctamente
 
-
+### Proyecto 4 - Cotización del Seguro de un Auto (JavaScript orientado a objetos)
+* Existen tres modelos, cada uno con precios distintos:
+** Seguro Americano
+** Seguro Asiático
+** Seguro Europeo
+* Cada año del auto su precio deberá ser menor en un 3%
+* El seguro del Auto **Completo** o **Básico** tiene distintos precios
+* Deberá ser realizado con **Prototypes** (archivo app.js)
+* Luego debe ser migrado a **Clases JS** (archivo appES6.js)
