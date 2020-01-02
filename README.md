@@ -20,10 +20,7 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Después del gif debe aparecer un gráfico que le indica al usuario que su mensaje fué enviado correctamente
 
 ### Proyecto 4 - Cotización del Seguro de un Auto (JavaScript orientado a objetos)
-* Existen tres modelos, cada uno con precios distintos:
-.. * Seguro Americano
-.. * Seguro Asiático
-** Seguro Europeo
+* Existen tres modelos, cada uno con precios distintos (**Seguro Americano**, **Seguro Asiático** y **Seguro Europeo**)
 * Cada año del auto su precio deberá ser menor en un 3%
 * El seguro del Auto **Completo** o **Básico** tiene distintos precios
 * Deberá ser realizado con **Prototypes** (archivo app.js)
