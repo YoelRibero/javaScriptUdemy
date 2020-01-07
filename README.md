@@ -25,3 +25,9 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * El seguro del Auto **Completo** o **Básico** tiene distintos precios
 * Deberá ser realizado con **Prototypes** (archivo app.js)
 * Luego debe ser migrado a **Clases JS** (archivo appES6.js)
+
+### Proyecto 5 - Gasto Semanal (JavaScript orientado a objetos)
+* Agregar un presupuesto semanal
+* Crear un listado de gastos e ir reduciendo la cantidad de presupuesto disponible
+* Una vez gastado el 50% mostrar el restante en color amarillo
+* Una vez gastado el 75% mostrar el restante en color rojo
