@@ -25,3 +25,9 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * El seguro del Auto **Completo** o **Básico** tiene distintos precios
 * Deberá ser realizado con **Prototypes** (archivo app.js)
 * Luego debe ser migrado a **Clases JS** (archivo appES6.js)
+
+### Proyecto 5 - Generador de nombres utilizando Rest Api y Ajax
+* Consumir los datos desde una REST API
+* Enviar parámetros a la REST API para filtrar país, sexo, y cantidad de nombres
+* Imprimir los resultados desde la REST API con **Fetch API**, **Ajax** y **Async / Await**
+* Deberá ser realizado con clases
