@@ -31,9 +31,3 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Crear un listado de gastos e ir reduciendo la cantidad de presupuesto disponible
 * Una vez gastado el 50% mostrar el restante en color amarillo
 * Una vez gastado el 75% mostrar el restante en color rojo
-
-### Proyecto 6 - Generador de nombres utilizando Rest Api y Ajax
-* Consumir los datos desde una REST API
-* Enviar parámetros a la REST API para filtrar país, sexo, y cantidad de nombres
-* Imprimir los resultados desde la REST API con **Fetch API**, **Ajax** y **Async / Await**
-* Deberá ser realizado con clases
