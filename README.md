@@ -37,3 +37,15 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Enviar parámetros a la REST API para filtrar país, sexo, y cantidad de nombres
 * Imprimir los resultados desde la REST API con **Fetch API**, **Ajax** y **Async / Await**
 * Deberá ser realizado con clases
+
+### Proyecto 7 - Cotizar criptomonedas
+* Consumir los datos desde una REST API
+* Convertir 4 monedas (Dólares, Euros y Libras) a +100 distintas criptomonedas al instante.
+* Se desarrollado con **Clases** y **Async / Await** + **Fetch API**.
+* Agregar un gráfico que simule un cálculo (SpinKit)
+
+### Proyecto 8 - Eventos con Eventbrite
+* Consumir los eventos desde la API de Event Brite (incluye crear aplicación)
+* Filtrar eventos por categoría, nombre y lugar
+* Imprimir los resultados con Fetch API y Async Await
+* El código debe ser realizado con clases.
