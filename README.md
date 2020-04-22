@@ -49,3 +49,10 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Filtrar eventos por categoría, nombre y lugar
 * Imprimir los resultados con Fetch API y Async Await
 * El código debe ser realizado con clases.
+
+### Proyecto 9 - Establecimientos en mapas
+* Consumir los establecimientos desde la API de Establecimientos
+* Filtrar resultados con un input
+* Mostrar Múltiples pines para los establecimientos en un mismo mapa.
+* Imprimir los resultados con Fetch API y Async Await.
+* El código debe ser realizado con clases.
