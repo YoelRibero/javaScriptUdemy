@@ -56,3 +56,10 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Mostrar Múltiples pines para los establecimientos en un mismo mapa.
 * Imprimir los resultados con Fetch API y Async Await.
 * El código debe ser realizado con clases.
+
+### Proyecto 10 - Busscador de letras de canciones según artista y canción (Con Módulos)
+* Consumir letras de canciones desde la API Lyrics
+* Filtrar resultados con un input de artista y canción
+* Imprimir la letra de la canción
+* Validar formulario cuando está vacío o cuando la canción o es correcta
+* Debe estar hecho con módulos

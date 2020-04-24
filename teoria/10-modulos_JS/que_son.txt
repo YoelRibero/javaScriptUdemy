@@ -1,0 +1,38 @@
+Un módulo en programación, nos va a permitir agrupar funcionalidad relacionada en un mismo archivo, de esta forma, conforme nuestro proyecto crezca, será más fácil de mantener y estará mejor organizado.
+
+La ventaja principal de un módulo es que podremos utilizarlo únicamente donde sea requerido, dejando el resto del programa oculto para el resto del código y tambié re-utilizar código.
+
+Beneficios
+
+- Dividir el código en pequeños archivos con funcionalidad relacionada
+- Un módulo puede ser utilizado fácilmente en otra aplicación
+- Despendencias.
+- Evitan el conflicto con el nombre de las variables
+
+¿Que son las dependencias?
+
+Un módulo puede y debe estar conectado con otro módulo, esa relación se conoce como dependencia.
+
+Si un módulo requiere una pieza de otro módulo, se dice que "depende de ese módulo". Por ej. Bootstrap que requiere jQuery.
+
+Evitan el conflicto con el nombre de las variables
+
+La idea de crear módulos también nos ayuda a evitar que si tenemos 2 módulos con la función cliente, estos no tengan conflicto.
+
+Esto es debido a que las funciones serán llamadas como:
+modulo1.cliente();
+modulo2.cliente();
+
+Módulos y JavaScript
+
+<script src="clientes.js"></script>
+<script src="ventas.js"></script>
+<script src="interfaz.js"></script>
+
+Esta práctica aunque es la más común tiene sus desventajas:
+
+- Cada script es un llamado HTTP lo cual hace el sitio web más lento.
+- Cada script detiene la ejecución mientras se descarga
+- El manejo de dependencias es manual: Si tenemos una función en el archivo B y se utiliza en el archivo A sin haberse cargado, tendremos problemas.
+
+Si bien webpack es la mejor opción para crear módulos y bundlers, veremos como hacerlos con ES6, de forma nativa antes de probar webpack.
