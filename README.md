@@ -63,3 +63,8 @@ _En este curso se aprende JavaScript desde los fundamentos hasta temas más avan
 * Imprimir la letra de la canción
 * Validar formulario cuando está vacío o cuando la canción o es correcta
 * Debe estar hecho con módulos
+
+### Proyecto 11 - Higher Order Functions - Creando un Buscador en Tiempo Real
+* Crear un buscador de autos en tiempo real
+* Filtrar por marca, año, precio mínimo y máximo, cant de puertas, transmisión y color
+* Utilizar Higher Order Functions o Array Methods para construirla
