@@ -60,10 +60,7 @@ _Un plugin se instala vía NPM y se importa al archivo webpack con la palabra re
 * Ahora, todos estos pasos los podemos configurar para tener control de lo que queremos que webpack compile.
 * Creamos el archivo ~~~ webpack.config.js ~~~ así se debe llamar para que webpack sepa que es un archivo de configuración.
 * Dentro del archivo tendremos la configuración para especificar la entrada, la salida, etc. 
-* La entrada la configuramos con 
-~~~ 
-entry: './src/index.js 
-~~~ 
+* La entrada la configuramos con ``` entry: './src/index.js ``` 
 si tenemos más de un archivo de entrada lo ponemos como arreglo.
 * La salida la configuramos con ~~~ output: { filename: 'bundle.js', path: path.join(__dirname, './dist') } ~~~. Para decirle donde queremos que se exporte debemos importar el modulo path con ~~~ const path = require('path') ~~~
 * Ahora si corremos el comando ~~~ $ node_modules/.bin/webpack ~~~ sin el nombre de entrada porque ya lo tenemos en la configuración y nos creará la carpeta ~~~ dist ~~~ con el archivo ~~~ bundle.js ~~~
